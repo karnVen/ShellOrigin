@@ -169,7 +169,7 @@ void lsh_loop(void)
   } while (status);
 }
 
-/
+
 int main(int argc, char **argv)
 {
   
